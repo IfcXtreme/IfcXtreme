@@ -4,7 +4,7 @@
 [IfcDoc](https://technical.buildingsmart.org/resources/ifcdoc/) from [buildingSMART International](https://www.buildingsmart.org/) plays a vital role in the OpenBIM environment, but its complexity caused fewer Building Information Modeling/Management - BIM experts in the industry to know and use it.
 For this reason, we decided to build a transparent and easy to use software which will help OpenBIM, especially in Automation and Control aspects.
 
-## Chat ![Gitter](https://img.shields.io/gitter/room/IfcXtreme/community.svg?color=blueviolet)
+## Chat [![](https://img.shields.io/gitter/room/IfcXtreme/community.svg?color=blueviolet)](https://gitter.im/IfcXtreme/community)
 There is a [gitter chat room](https://gitter.im/IfcXtreme/community#) for realtime, ephemeral interaction if preferred.
 
 ## License
