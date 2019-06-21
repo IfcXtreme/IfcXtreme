@@ -8,7 +8,7 @@ For this reason, we decided to build a transparent and easy to use software whic
 There is a [gitter chat room](https://gitter.im/IfcXtreme/community#) for realtime, ephemeral interaction if preferred.
 
 ## Contributing
-We encourage you to contribute to IfcXtreme! If you would like to contribute to IfcXtreme, you should subscribe to the developers mailing list ([IfcXtreme-dev](Dev@IfcXtreme.com)), where the developers of IfcXtreme discuss the development.
+We encourage you to contribute to IfcXtreme! If you would like to contribute to IfcXtreme, you should subscribe to the developers mailing list ([IfcXtreme-dev](http://eepurl.com/gvsWSP)), where the developers of IfcXtreme discuss the development.
 
 You can send pull requests via GitHub. Patches should:
 
