@@ -19,7 +19,7 @@ Our GitHub page: https://github.com/IfcXtreme/IfcXtreme
 
 For this reason, we decided to build a transparent and easy to use software which will help OpenBIM, especially in Automation and Control aspects.
 
-Our project will accelerate IFD and IFC development and will accelerate national integrated digital projects all around the world.
+Our project will accelerate IFD and IFC development and will speed up national integrated digital projects all around the world.
 
 
 ## Chat [![](https://img.shields.io/gitter/room/IfcXtreme/community.svg?color=blueviolet)](https://gitter.im/IfcXtreme/community)
