@@ -4,18 +4,22 @@
 Nowadays, IFD International Framework for Dictionaries ISO 12006-3 and mainly [IFC](https://www.buildingsmart.org/about/what-is-openbim/ifc-introduction/) Industry Foundation Classes ISO 16739 play a vital role in the OpenBIM environment all around the world, and accordingly, [IfcDoc](https://technical.buildingsmart.org/resources/ifcdoc/) tool from [ buildingSMART International](https://www.buildingsmart.org/) has become a critical tool for digital built environment industries.
 But this critical tool has had a lot of issues which I just focus on some of the vitally important ones:
 
-First of all, it is not a cross-platform tool and just works on Windows.
-Secondly, the logic behind the IfcDoc tool makes the IFC schema and the IFC schema development more dependent on its data modeling tool which today has issues and buildingSMART International has started to develop it again based on UML, but in reality, UML will not solve the dependency barrier, likewise.
-Thirdly, many think about parametric IFC which existing IFC development does not support.
+* First of all, it is not a cross-platform tool and just works on Windows.
+* Secondly, the logic behind the IfcDoc tool makes the IFC schema and the IFC schema development more dependent on its data modeling tool which today has issues and buildingSMART International has started to develop it again based on UML, but in reality, UML will not solve the dependency barrier, likewise.
+* Thirdly, many think about parametric IFC which existing IFC development does not support.
 
 And some other issues and obstacles ahead which led us to think and start the IfcXtreme project as an alternative to IfcDoc, which is a cross-platform visual IFD / IFC programming that revolutionizes the OpenBIM environment due to its freedoms and easy usage which gives as a gift to the end user as OpenBIM experts
 
 Our project on bSI forum: https://forums.buildingsmart.org/t/ifcx-and-ifclite-projects/1440
+
 The base idea which introduced on LinkedIn: https://www.linkedin.com/pulse/ifcxtreme-ehsan-azari/
+
 Our GitHub page: https://github.com/IfcXtreme/IfcXtreme
+
 
 For this reason, we decided to build a transparent and easy to use software which will help OpenBIM, especially in Automation and Control aspects.
 Our project will accelerate IFD and IFC development and will accelerate national integrated digital projects all around the world.
+
 
 ## Chat [![](https://img.shields.io/gitter/room/IfcXtreme/community.svg?color=blueviolet)](https://gitter.im/IfcXtreme/community)
 There is a [gitter chat room](https://gitter.im/IfcXtreme/community#) for realtime, ephemeral interaction if preferred.
