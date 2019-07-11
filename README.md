@@ -1,7 +1,7 @@
 # Welcome to IfcXtreme
 ### IfcXtreme is the next generation of IfcDoc
 
-Nowadays, IFD International Framework for Dictionaries ISO 12006-3 and mainly [IFC](https://www.buildingsmart.org/about/what-is-openbim/ifc-introduction/) Industry Foundation Classes ISO 16739 play a vital role in the OpenBIM environment all around the world, and accordingly, [IfcDoc](https://technical.buildingsmart.org/resources/ifcdoc/) tool from [ buildingSMART International](https://www.buildingsmart.org/) has become a critical tool for digital built environment industries.
+Nowadays, IFD International Framework for Dictionaries ISO 12006-3 and mainly [IFC](https://www.buildingsmart.org/about/what-is-openbim/ifc-introduction/) Industry Foundation Classes ISO 16739 play a vital role in the OpenBIM environment all around the world, and accordingly, [IfcDoc](https://technical.buildingsmart.org/resources/ifcdoc/) tool from [ buildingSMART International](https://www.buildingsmart.org/) has became a critical tool for digital built environment industries.
 But this critical tool has had a lot of issues which I just focus on some of the vitally important ones:
 
 * First of all, it is not a cross-platform tool and just works on Windows.
@@ -18,6 +18,7 @@ Our GitHub page: https://github.com/IfcXtreme/IfcXtreme
 
 
 For this reason, we decided to build a transparent and easy to use software which will help OpenBIM, especially in Automation and Control aspects.
+
 Our project will accelerate IFD and IFC development and will accelerate national integrated digital projects all around the world.
 
 
