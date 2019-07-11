@@ -8,7 +8,7 @@ But this critical tool has had a lot of issues which I just focus on some of the
 * Secondly, the logic behind the IfcDoc tool makes the IFC schema and the IFC schema development more dependent on its data modeling tool which today has issues and buildingSMART International has started to develop it again based on UML, but in reality, UML will not solve the dependency barrier, likewise.
 * Thirdly, many think about parametric IFC which existing IFC development does not support.
 
-And some other issues and obstacles ahead which led us to think and start the IfcXtreme project as an alternative to IfcDoc, which is a cross-platform visual IFD / IFC programming that revolutionizes the OpenBIM environment due to its freedoms and easy usage which gives as a gift to the end user as OpenBIM experts
+And some other issues and obstacles ahead which led us to think and start the IfcXtreme project as an alternative to IfcDoc, which is a cross-platform visual IFD / IFC programming that revolutionizes the OpenBIM environment due to its freedoms and easy usage which gives as a gift to the end users as BIM as well as OpenBIM experts
 
 Our project on bSI forum: https://forums.buildingsmart.org/t/ifcx-and-ifclite-projects/1440
 
