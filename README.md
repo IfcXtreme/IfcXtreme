@@ -1,8 +1,8 @@
 # Welcome to IfcXtreme
 ### IfcXtreme is the next generation of IfcDoc
 
-Nowadays, IFD International Framework for Dictionaries ISO 12006-3 and mainly [IFC](https://www.buildingsmart.org/about/what-is-openbim/ifc-introduction/) Industry Foundation Classes ISO 16739 play a vital role in the OpenBIM environment all around the world, and accordingly, [IfcDoc](https://technical.buildingsmart.org/resources/ifcdoc/) tool from [ buildingSMART International](https://www.buildingsmart.org/) has become a critical tool for digital built environment industry.
-But this critical tool has had a lot of issues which I just focus on some of the vitally important ones:
+Nowadays, IFD International Framework for Dictionaries ISO 12006-3 and mainly [IFC](https://www.buildingsmart.org/about/what-is-openbim/ifc-introduction/) Industry Foundation Classes ISO 16739 play a vital role in the OpenBIM environment all around the world, and accordingly, [IfcDoc](https://technical.buildingsmart.org/resources/ifcdoc/) tool from [buildingSMART International](https://www.buildingsmart.org/) has become a critical tool for digital built environment industry.
+But this critical tool has had a lot of issues which we just focus on some of the vitally important ones:
 
 * First of all, it is not a cross-platform tool and just works on Windows.
 * Secondly, the logic behind the IfcDoc tool makes the IFC schema and the IFC schema development more dependent on its data modeling tool which today has issues and buildingSMART International has started to develop it again based on UML, but in reality, UML will not solve the dependency barrier, likewise.
